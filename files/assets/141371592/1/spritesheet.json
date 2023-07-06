@@ -1,0 +1,395 @@
+{
+	"frames": {
+		"Balloon.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 993,
+				"h": 1355
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 993,
+				"h": 1355
+			},
+			"sourceSize": {
+				"w": 993,
+				"h": 1355
+			}
+		},
+		"Bird 1.png": {
+			"frame": {
+				"x": 996,
+				"y": 1,
+				"w": 211,
+				"h": 227
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 211,
+				"h": 227
+			},
+			"sourceSize": {
+				"w": 211,
+				"h": 227
+			}
+		},
+		"Bird 2.png": {
+			"frame": {
+				"x": 1209,
+				"y": 1,
+				"w": 189,
+				"h": 226
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 189,
+				"h": 226
+			},
+			"sourceSize": {
+				"w": 189,
+				"h": 226
+			}
+		},
+		"Bird 3.png": {
+			"frame": {
+				"x": 1400,
+				"y": 1,
+				"w": 268,
+				"h": 227
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 268,
+				"h": 227
+			},
+			"sourceSize": {
+				"w": 268,
+				"h": 227
+			}
+		},
+		"Comet.png": {
+			"frame": {
+				"x": 996,
+				"y": 230,
+				"w": 459,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 459,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 459,
+				"h": 200
+			}
+		},
+		"Dog.png": {
+			"frame": {
+				"x": 996,
+				"y": 432,
+				"w": 484,
+				"h": 339
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 484,
+				"h": 339
+			},
+			"sourceSize": {
+				"w": 484,
+				"h": 339
+			}
+		},
+		"Frame.png": {
+			"frame": {
+				"x": 996,
+				"y": 773,
+				"w": 347,
+				"h": 339
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 347,
+				"h": 339
+			},
+			"sourceSize": {
+				"w": 347,
+				"h": 339
+			}
+		},
+		"Frog.png": {
+			"frame": {
+				"x": 996,
+				"y": 1114,
+				"w": 356,
+				"h": 413
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 356,
+				"h": 413
+			},
+			"sourceSize": {
+				"w": 356,
+				"h": 413
+			}
+		},
+		"Moon.png": {
+			"frame": {
+				"x": 1345,
+				"y": 773,
+				"w": 235,
+				"h": 240
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 235,
+				"h": 240
+			},
+			"sourceSize": {
+				"w": 235,
+				"h": 240
+			}
+		},
+		"NLO.png": {
+			"frame": {
+				"x": 1670,
+				"y": 1,
+				"w": 363,
+				"h": 586
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 363,
+				"h": 586
+			},
+			"sourceSize": {
+				"w": 363,
+				"h": 586
+			}
+		},
+		"NLO 2.png": {
+			"frame": {
+				"x": 1582,
+				"y": 589,
+				"w": 289,
+				"h": 271
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 289,
+				"h": 271
+			},
+			"sourceSize": {
+				"w": 289,
+				"h": 271
+			}
+		},
+		"Package.png": {
+			"frame": {
+				"x": 1582,
+				"y": 862,
+				"w": 191,
+				"h": 213
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 191,
+				"h": 213
+			},
+			"sourceSize": {
+				"w": 191,
+				"h": 213
+			}
+		},
+		"Plane.png": {
+			"frame": {
+				"x": 1354,
+				"y": 1077,
+				"w": 500,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 500,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 500,
+				"h": 247
+			}
+		},
+		"Saturn.png": {
+			"frame": {
+				"x": 1354,
+				"y": 1326,
+				"w": 398,
+				"h": 381
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 398,
+				"h": 381
+			},
+			"sourceSize": {
+				"w": 398,
+				"h": 381
+			}
+		},
+		"Tree leaf.png": {
+			"frame": {
+				"x": 1873,
+				"y": 589,
+				"w": 155,
+				"h": 168
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 155,
+				"h": 168
+			},
+			"sourceSize": {
+				"w": 155,
+				"h": 168
+			}
+		},
+		"Tree leaf-1.png": {
+			"frame": {
+				"x": 1873,
+				"y": 759,
+				"w": 88,
+				"h": 192
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 88,
+				"h": 192
+			},
+			"sourceSize": {
+				"w": 88,
+				"h": 192
+			}
+		},
+		"Tree leaf-2.png": {
+			"frame": {
+				"x": 1856,
+				"y": 953,
+				"w": 99,
+				"h": 179
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 99,
+				"h": 179
+			},
+			"sourceSize": {
+				"w": 99,
+				"h": 179
+			}
+		},
+		"Tree leaf-3.png": {
+			"frame": {
+				"x": 1856,
+				"y": 1134,
+				"w": 178,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 170
+			}
+		},
+		"Tree leaf-4.png": {
+			"frame": {
+				"x": 1482,
+				"y": 589,
+				"w": 92,
+				"h": 182
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 182
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 182
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 2035,
+			"h": 1708
+		},
+		"scale": "1"
+	}
+}
